@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ValentinMam
+- 👀 I’m interested in Front End Dev. & Back End Dev.
+- 🌱 I’m currently learning Web Development with OpenClassrooms 🎓
+- 💼 I'm working at Adadiff Casi, cultural association 🎭 based in Avignon (France,🔵⚪🔴) 
+- 🔎 LinkedIn --> https://www.linkedin.com/in/valentin-mamichel84/

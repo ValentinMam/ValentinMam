@@ -8,7 +8,7 @@
     - ✅Project 2: Transform a mockup into a website
     - ✅Project 3: Boost a web page with css animations
     - ✅Project 4: Optimize a website
-    - 📅Project 5: Build an e-commerce site
-    - ⭕Project 6: Build a secure API
+    - ✅Project 5: Build an e-commerce site
+    - 📅Project 6: Build a secure API
     - ⭕Project 7: Create a corporate social network
 

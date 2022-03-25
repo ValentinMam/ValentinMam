@@ -1,14 +1,14 @@
-- 👋 Hi, I’m @ValentinMam
-- 👀 I’m interested in Front End Dev. & Back End Dev.
-- 💼 I'm working at Adadiff Casi, cultural association 🎭 based in Avignon (🔵⚪🔴) 
+👋 Hi, I’m @ValentinMam
+👀 I’m interested in Front End Dev. & Back End Dev. 
 - 🔎 LinkedIn --> https://www.linkedin.com/in/valentin-mamichel84/
 
-- 🌱 I’m currently learning Web Development with OpenClassrooms 🎓
-    - ✅Project 1: Start web developer training
-    - ✅Project 2: Transform a mockup into a website
-    - ✅Project 3: Boost a web page with css animations
-    - ✅Project 4: Optimize a website
-    - ✅Project 5: Build an e-commerce site
-    - ✅Project 6: Build a secure API
-    - 📅Project 7: Create a corporate social network
+I’m currently learning Development with OpenClassrooms 🎓
+-  2021 📅 : 212 contributions ! 
 
+- 🎯 Web Development journey ( april 2021/ march 2022) - 6 projects 💻 
+- ✅ Transform a mockup into a website / Boost a web page with css animations 
+- ✅ Optimize a website / Build an e-commerce site
+- ✅ Build a secure API / Create a corporate social network
+
+- 🎯 Application Development - React journey (april 2022/ march 2024) 
+- 🌱 14 projects...

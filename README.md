@@ -6,9 +6,7 @@ I’m currently learning Development with OpenClassrooms 🎓
 -  2021 📅 : 212 contributions ! 
 
 - 🎯 Web Development journey ( april 2021/ march 2022) - 6 projects 💻 
-- ✅ Transform a mockup into a website / Boost a web page with css animations 
-- ✅ Optimize a website / Build an e-commerce site
-- ✅ Build a secure API / Create a corporate social network
+- ✅ https://github.com/ValentinMam/Web-Development-OpenClassrooms-Training-Courses
 
 - 🎯 Application Development - React journey (april 2022/ march 2024) 
 - 🌱 14 projects...

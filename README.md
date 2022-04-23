@@ -1,13 +1,9 @@
 👋 Hi, I’m @ValentinMam ! 
-
-# Profile
-
 Learning Development with OpenClassrooms since 2021 🎓
 
 # Statistics
 2021 📅 : 212 contributions !
 
-![api](https://user-images.githubusercontent.com/82659102/164913753-d6faa09c-2496-4253-aabb-4aa157d75651.svg)
 ![languages](https://user-images.githubusercontent.com/82659102/164913953-af875259-779c-49c0-8f27-f4b1a19a5024.svg)
 
 # Web Development (2021/2022) - 6 projects 💻🎯 

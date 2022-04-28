@@ -44,7 +44,6 @@ Learning Development with OpenClassrooms since 2021 🎓
 ![eslint](https://user-images.githubusercontent.com/82659102/164915340-c30a1a69-1d74-4b6a-8373-677f7284e1af.svg)
 ![jest](https://user-images.githubusercontent.com/82659102/164915562-6938d87b-d351-46e7-a5e5-4be88cb2acce.svg)
 ![nextjs](https://user-images.githubusercontent.com/82659102/164915569-ba6889e4-3a87-47ed-b824-bb384f5b5099.svg)
-![reactnative](https://user-images.githubusercontent.com/82659102/164915353-a1bb5e20-8250-43fe-80dd-eaf9ece33418.svg)
 ![linux](https://user-images.githubusercontent.com/82659102/164915483-b33886e9-ff91-4c97-86ce-23501bc2a871.svg)
 ![nginx](https://user-images.githubusercontent.com/82659102/164915574-793836d7-cedd-4fa8-ac2f-1202e1dc0f0d.svg)
 ![hackerrank](https://user-images.githubusercontent.com/82659102/164915500-79f3458d-e815-43a1-9818-054aafbaae2d.svg)

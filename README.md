@@ -3,6 +3,7 @@ Learning Development with OpenClassrooms since 2021 🎓
 
 # Statistics
 2021 📅 : 212 contributions !
+2022 📅 : 232 contributions !
 
 ![languages](https://user-images.githubusercontent.com/82659102/164913953-af875259-779c-49c0-8f27-f4b1a19a5024.svg)
 
@@ -29,7 +30,7 @@ Learning Development with OpenClassrooms since 2021 🎓
 
 # Application Development - React (2022/2024) - 14 projects 💻🌱 
 
-# Goals 2022 
+# Goals 2023
 ![gitlab](https://user-images.githubusercontent.com/82659102/164915493-e31eb01d-cbce-4b97-81af-9029d33aeaad.svg)
 ![bitbucket](https://user-images.githubusercontent.com/82659102/164915488-19fab510-2da9-4fbc-aa86-228ffb428a07.svg)
 ![jira](https://user-images.githubusercontent.com/82659102/164915504-ee5a09e2-4ab4-4a27-835a-b212b6ec72d9.svg)

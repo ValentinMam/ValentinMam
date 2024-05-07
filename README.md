@@ -1,5 +1,5 @@
 👋 Hi, I’m @ValentinMam ! 
-Learning Development with OpenClassrooms since 2021 🎓
+Learning Development since 2021 🎓
 
 # Statistics
 - 2021 📅 : 212 contributions 
